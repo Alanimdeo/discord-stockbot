@@ -1,0 +1,17 @@
+{
+  "name": "stockbot",
+  "version": "1.0.0",
+  "description": "This is a stock bot made by Alanimdeo",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Alanimdeo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "mysql": "^2.18.1",
+    "numeral": "^2.0.6",
+    "request": "^2.88.2"
+  }
+}
